@@ -15,9 +15,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zelr0x&langs_count=7&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ```
-68 65 6c 6c 6f 20 74 68 65 72 65 2c 20 66 65 6c 6c 6f 77 20 68 61 78 30 72 2e 0a
-74 68 65 72 65 27 73 20 61 20 6c 6f 74 20 6f 66 20 73 68 69 74 74 79 20 63 6f 64 65 20 64 6f 77 6e 20 68 65 72 65 2e 0a
-73 6f 72 72 79 20 66 6f 72 20 74 68 61 74 2e 0a
-0a
-61 73 63 69 69 20 61 72 74 20 66 6f 6e 74 3a 20 70 6f 69 73 6f 6e 2e 0a
+54 68 65 20 73 63 6f 70 65 20 6f 66 20 6d 79 20 65 6e 67 69 6e 65 65 72 69 6e 67 20 67 65 6e 69 75 73 20 6c 69 74 65 72 61 6c 6c 79 20 6b 6e 6f 77 73 20 6e 6f 20 62 6f 75 6e 64 73 2e
 ```
