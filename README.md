@@ -12,7 +12,7 @@
 
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zelr0x&langs_count=7&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zelr0x&langs_count=10&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ```
 54 68 65 20 73 63 6f 70 65 20 6f 66 20 6d 79 20 65 6e 67 69 6e 65 65 72 69 6e 67 20 67 65 6e 69 75 73 20 6c 69 74 65 72 61 6c 6c 79 20 6b 6e 6f 77 73 20 6e 6f 20 62 6f 75 6e 64 73 2e
